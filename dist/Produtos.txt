@@ -1,0 +1,4 @@
+1|Teste|Teste - 500g|200|0.6
+2|Teste 2|Teste - 400g|100|0.7
+3|Teste 3|Teste - 200g|50|0.8
+4|Teste 4|Teste - 100g|25|0.9
